@@ -98,3 +98,7 @@ public:
 		}
 	}
 };
+
+int main() {
+	Queues q;
+}
