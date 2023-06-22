@@ -135,7 +135,7 @@ int main() {
 				cout << "Pilihan Tidak Ada dalam menu" << endl;
 				break;
 			}
-			}
+			} 
 		}
 		catch (exception& e) {
 			cout << "check for the values entered" << endl;
